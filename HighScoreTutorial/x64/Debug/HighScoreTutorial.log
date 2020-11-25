@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\HighScoreTutorial\HighScoreTutorial\Source.cpp(64,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\source\repos\HighScoreTutorial\HighScoreTutorial\Source.cpp(64,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  HighScoreTutorial.vcxproj -> C:\Users\User\source\repos\HighScoreTutorial\x64\Debug\HighScoreTutorial.exe
